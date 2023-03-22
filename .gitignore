@@ -1,0 +1,55 @@
+# Compiled object files
+*.o
+*.obj
+*.so
+*.a
+
+# Compiled executables
+*.exe
+*.out
+
+# Build directories
+build/
+bin/
+
+# Dependency directories
+lib/
+vendor/
+
+# Editor-specific files
+.vscode/
+*.swp
+*~
+
+# Other files to ignore
+*.log
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.rar
+*.7z
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.ico
+*.svg
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.flv
+*.mkv
+*.mov
+*.ogg
+*.zip
+*.rar
+*.tar
+*.gz
+*.bz2
